@@ -6,5 +6,3 @@ From a given list of genes I extract the max fold ratio and if the value is <0 I
 
 2. read_mri_direction.R
 Same as the program above but in this case with a list of miRNAs.
-
-*Lots of data are not public yet while we are in a paper under review process.
